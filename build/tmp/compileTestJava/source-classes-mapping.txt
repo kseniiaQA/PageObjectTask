@@ -1,0 +1,15 @@
+ru/netology/web/data/LoginPageV1.java
+ ru.netology.web.data.LoginPageV1
+ru/netology/web/data/DataHelper.java
+ ru.netology.web.data.DataHelper
+ ru.netology.web.data.DataHelper$AuthInfo
+ ru.netology.web.data.DataHelper$CardsInfo
+ ru.netology.web.data.DataHelper$VerificationCode
+ru/netology/web/data/VerificationPage.java
+ ru.netology.web.data.VerificationPage
+ru/netology/web/data/DashboardCards.java
+ ru.netology.web.data.DashboardCards
+ru/netology/web/data/DashboardReplenishCards.java
+ ru.netology.web.data.DashboardReplenishCards
+ru/netology/web/data/MoneyTransferTest.java
+ ru.netology.web.data.MoneyTransferTest
